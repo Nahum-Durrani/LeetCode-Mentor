@@ -52,7 +52,3 @@ Content-Type: application/json
 - Your API key is stored only in your browser (chrome.storage.sync).
 - The extension only runs on LeetCode problem pages.
 - If the sidebar does not appear, try refreshing the page.
-
----
-
-Enjoy AI-powered coding hints! 🎉 
